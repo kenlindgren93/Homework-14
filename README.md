@@ -1,3 +1,5 @@
+### Answers to the "Evaluate the performance of each model" section can be found at the bottom of the "lstm_stock_predictor_closing.ipynb" file.
+
 # LSTM Stock Predictor
 
 ![deep-learning.jpg](Images/deep-learning.jpg)
